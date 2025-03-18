@@ -1,6 +1,3 @@
-I. A Scandal in Bohemia II. The Red-Headed League III. A Case of Identity IV. The Boscombe Valley Mystery V. The Five Orange Pips VI.
-The Man with the Twisted Lip VII. The Adventure of the Blue Carbuncle VIII. The Adventure of the Speckled Band IX.
-The Adventure of the Engineer's Thumb X. The Adventure of the Noble Bachelor XI. The Adventure of the Beryl Coronet XII.
 To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name.
 In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler.
 All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind.
@@ -1760,10 +1757,6 @@ And here comes the country surgeon and Mrs. Rucastle, so I think, Watson, that w
 They still live with their old servants, who probably know so much of Rucastle's past life that he finds it difficult to part from them.
 Mr. Fowler and Miss Rucastle were married, by special license, in Southampton the day after their flight, and he is now the holder of a government appointment in the island of Mauritius.
 As to Miss Violet Hunter, my friend Holmes, rather to my disappointment, manifested no further interest in her when once she had ceased to be the centre of one of his problems, and she is now the head of a private school at Walsall, where I believe that she has met with considerable success.
-PART I. CHAPTER I. MR. SHERLOCK HOLMES. CHAPTER II. THE SCIENCE OF DEDUCTION. CHAPTER III. THE LAURISTON GARDENS MYSTERY CHAPTER IV.
-WHAT JOHN RANCE HAD TO TELL. CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR. CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
-PART II. THE COUNTRY OF THE SAINTS CHAPTER I. ON THE GREAT ALKALI PLAIN. CHAPTER II. THE FLOWER OF UTAH.
-CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET. CHAPTER IV. A FLIGHT FOR LIFE. CHAPTER V. THE AVENGING ANGELS.
 In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army.
 Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as Assistant Surgeon.
 The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out.
@@ -3063,7 +3056,6 @@ How is the owner going to restore the glories of the Baskervilles if he has not 
 Quite so. Well, Sir Henry, I am of one mind with you as to the advisability of your going down to Devonshire without delay.
 But Dr. Mortimer has his practice to attend to, and his house is miles away from yours. With all the goodwill in the world he may be unable to help you.
 At the present instant one of the most revered names in England is being besmirched by a blackmailer, and only I can stop a disastrous scandal.
-Holmes laid his hand upon my arm. "If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place.
 The proposition took me completely by surprise, but before I had time to answer, Baskerville seized me by the hand and wrung it heartily.
 "Well, now, that is real kind of you, Dr. Watson," said he. "You see how it is with me, and you know just as much about the matter as I do.
 The promise of adventure had always a fascination for me, and I was complimented by the words of Holmes and by the eagerness with which the baronet hailed me as a companion.
@@ -3378,7 +3370,6 @@ But whatever the true explanation of Barrymore's movements might be, I felt that
 I had an interview with the baronet in his study after breakfast, and I told him all that I had seen.
 "I knew that Barrymore walked about nights, and I had a mind to speak to him about it," said he. "Two or three times I have heard his steps in the passage, coming and going, just about the hour you name."
 Perhaps he does. If so, we should be able to shadow him and see what it is that he is after. I wonder what your friend Holmes would do if he were here.
-"I believe that he would do exactly what you now suggest," said I. "He would follow Barrymore and see what he did."
 The man is rather deaf, and in any case we must take our chance of that. We'll sit up in my room tonight and wait until he passes.
 Sir Henry rubbed his hands with pleasure, and it was evident that he hailed the adventure as a relief to his somewhat quiet life upon the moor.
 The baronet has been in communication with the architect who prepared the plans for Sir Charles, and with a contractor from London, so that we may expect great changes to begin here soon.
@@ -4937,8 +4928,6 @@ But love is an emotional thing, and whatever is emotional is opposed to that tru
 "Strange," said I, "how terms of what in another man I should call laziness alternate with your fits of splendid energy and vigour."
 "The division seems rather unfair," I remarked. "You have done all the work in this business. I get a wife out of it, Jones gets the credit, pray what remains for you?"
 "For me," said Sherlock Holmes, "there still remains the cocaine-bottle." And he stretched his long white hand up for it.
-I. Silver Blaze II. The Adventure of the Cardboard Box III. The Yellow Face IV. The Stockbroker's Clerk V. The "Gloria Scott" VI.
-The Musgrave Ritual VII. The Reigate Squires VIII. The Crooked Man IX. The Resident Patient X. The Greek Interpreter XI.
 I was not surprised. Indeed, my only wonder was that he had not already been mixed up in this extraordinary case, which was the one topic of conversation through the length and breadth of England.
 Fresh editions of every paper had been sent up by our news agent, only to be glanced over and tossed down into a corner.
 When, therefore, he suddenly announced his intention of setting out for the scene of the drama it was only what I had both expected and hoped for.
@@ -10074,8 +10063,8 @@ As to you, Watson, you are joining us with your old service, as I understand, so
 The two friends chatted in intimate converse for a few minutes, recalling once again the days of the past, while their prisoner vainly wriggled to undo the bonds that held him.
 Good old Watson! You are the one fixed point in a changing age. There's an east wind coming all the same, such a wind as never blew on England yet.
 Start her up, Watson, for it's time that we were on our way. I have a check for five hundred pounds which should be cashed early, for the drawer is quite capable of stopping it if he can.
-PART I-The Tragedy of Birlstone Chapter I-The Warning Chapter II-Sherlock Holmes Discourses Chapter III-The Tragedy of Birlstone Chapter IV-Darkness Chapter V-The People of the Drama Chapter VI-A Dawning Light Chapter VII-The Solution
-PART II-The Scowrers Chapter I-The Man Chapter II-The Bodymaster Chapter III-Lodge 341, Vermissa Chapter IV-The Valley of Fear Chapter V-The Darkest Hour Chapter VI-Danger Chapter VII-The Trapping of Birdy Edwards Epilogue
+Chapter I-The Warning Chapter II-Sherlock Holmes Discourses Chapter III-The Tragedy of Birlstone Chapter IV-Darkness Chapter V-The People of the Drama Chapter VI-A Dawning Light Chapter VII-The Solution
+Chapter I-The Man Chapter II-The Bodymaster Chapter III-Lodge 341, Vermissa Chapter IV-The Valley of Fear Chapter V-The Darkest Hour Chapter VI-Danger Chapter VII-The Trapping of Birdy Edwards Epilogue
 What's this, Mr. Holmes? Man, it's witchcraft! Where in the name of all that is wonderful did you get those names?
 For an instant I could have sworn that the faintest shadow of a smile flickered over the woman's lips.
 "Watson, would you be afraid to sleep in the same room with a lunatic." "If your heart is as big as your body, and your soul as fine as your face, then I'd ask for nothing better," said McMurdo.
@@ -11462,7 +11451,7 @@ Then he would indicate how the matter might be treated. Finally, when he read in
 You heard me warn this man at Birlstone Manor House that the coming danger was greater than the past.
 Barker beat his head with his clenched fist in his impotent anger. "Do not tell me that we have to sit down under this?
 "No, I don't say that," said Holmes, and his eyes seemed to be looking far into the future. "I don't say that he can't be beat.
-I The Adventure of the Illustrious Client II The Adventure of the Blanched Soldier III The Adventure of the Mazarin Stone IV The Adventure of the Three Gables V The Adventure of the Sussex Vampire VI The Adventure of the Three Garridebs VII The Problem of Thor Bridge VIII The Adventure of the Creeping Man IX The Adventure of the Lion's Mane X The Adventure of the Veiled Lodger XI The Adventure of Shoscombe Old Place XII The Adventure of the Retired Colourman
+I The Adventure of the Illustrious Client V The Adventure of the Sussex Vampire X The Adventure of the Veiled Lodger
 "It can't hurt now," was Mr. Sherlock Holmes's comment when, for the tenth time in as many years, I asked his leave to reveal the following narrative.
 So it was that at last I obtained permission to put on record what was, in some ways, the supreme moment of my friend's career.
 Both Holmes and I had a weakness for the Turkish Bath. It was over a smoke in the pleasant lassitude of the drying-room that I have found him less reticent and more human than anywhere else.
@@ -13990,7 +13979,6 @@ But whatever the true explanation of Barrymore's movements might be, I felt that
 I had an interview with the baronet in his study after breakfast, and I told him all that I had seen.
 "I knew that Barrymore walked about nights, and I had a mind to speak to him about it," said he. "Two or three times I have heard his steps in the passage, coming and going, just about the hour you name."
 Perhaps he does. If so, we should be able to shadow him, and see what it is that he is after. I wonder what your friend Holmes would do, if he were here.
-"I believe that he would do exactly what you now suggest," said I. "He would follow Barrymore and see what he did."
 The man is rather deaf, and in any case we must take our chance of that. We'll sit up in my room to-night and wait until he passes.
 Sir Henry rubbed his hands with pleasure, and it was evident that he hailed the adventure as a relief to his somewhat quiet life upon the moor.
 The baronet has been in communication with the architect who prepared the plans for Sir Charles, and with a contractor from London, so that we may expect great changes to begin here soon.
